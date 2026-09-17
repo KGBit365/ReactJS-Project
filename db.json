@@ -1,0 +1,107 @@
+{
+  "books": [
+    {
+      "id": "b1",
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year": 1969,
+      "genre": "Science Fiction",
+      "pages": 304,
+      "blurb": "An envoy from a interplanetary alliance is sent to a wintry world whose inhabitants have no fixed gender, forcing him to question everything he assumes about people and power.",
+      "cover": "https://covers.openlibrary.org/b/id/8259447-L.jpg"
+    },
+    {
+      "id": "b2",
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "year": 2017,
+      "genre": "Historical Fiction",
+      "pages": 496,
+      "blurb": "A Korean family's fortunes rise and fall across four generations in Japan, tracing how history moves through ordinary households.",
+      "cover": "https://covers.openlibrary.org/b/id/8352257-L.jpg"
+    },
+    {
+      "id": "b3",
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "year": 2013,
+      "genre": "Nature Writing",
+      "pages": 391,
+      "blurb": "A botanist and Potawatomi elder weaves indigenous teaching with plant science to argue for a more reciprocal relationship with the living world.",
+      "cover": "https://covers.openlibrary.org/b/id/8393178-L.jpg"
+    },
+    {
+      "id": "b4",
+      "title": "The Fifth Season",
+      "author": "N. K. Jemisin",
+      "year": 2015,
+      "genre": "Fantasy",
+      "pages": 468,
+      "blurb": "On a continent wracked by catastrophic seismic ages, a mother searches for her daughter while the world ends around her, again.",
+      "cover": "https://covers.openlibrary.org/b/id/8438533-L.jpg"
+    },
+    {
+      "id": "b5",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "year": 2021,
+      "genre": "Science Fiction",
+      "pages": 303,
+      "blurb": "An artificial friend observes the world from a shop window, hoping to be chosen, and learns what humans mean by love.",
+      "cover": "https://covers.openlibrary.org/b/id/10388356-L.jpg"
+    },
+    {
+      "id": "b6",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "year": 2011,
+      "genre": "Nonfiction",
+      "pages": 443,
+      "blurb": "A sweeping account of how a mid-ranking primate came to reshape the planet, told through the shared myths that let strangers cooperate at scale.",
+      "cover": "https://covers.openlibrary.org/b/id/8074388-L.jpg"
+    },
+    {
+      "id": "b7",
+      "title": "Gilead",
+      "author": "Marilynne Robinson",
+      "year": 2004,
+      "genre": "Literary Fiction",
+      "pages": 247,
+      "blurb": "An aging Iowa preacher writes a long letter to his young son, setting down a family's history and his own quiet reckonings with faith.",
+      "cover": "https://covers.openlibrary.org/b/id/8095918-L.jpg"
+    },
+    {
+      "id": "b8",
+      "title": "The Warmth of Other Suns",
+      "author": "Isabel Wilkerson",
+      "year": 2010,
+      "genre": "History",
+      "pages": 622,
+      "blurb": "The decades-long migration of Black Americans out of the South, told through three individual lives that stand for millions of others.",
+      "cover": "https://covers.openlibrary.org/b/id/7896527-L.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "u_1789530041258",
+      "name": "blabla",
+      "email": "blabla@blabla.com",
+      "password": "$2a$10$FJYHV592foqlidDxlsYsY.CWiJS4S6yMwI/69OQCxmrOxSvIZWiVi",
+      "createdAt": "2026-09-16T03:40:41.258Z"
+    }
+  ],
+  "mylist": [
+    {
+      "id": "m_1789530052211",
+      "userId": "u_1789530041258",
+      "bookId": "b2",
+      "addedAt": "2026-09-16T03:40:52.211Z"
+    },
+    {
+      "id": "m_1789530077376",
+      "userId": "u_1789530041258",
+      "bookId": "b1",
+      "addedAt": "2026-09-16T03:41:17.376Z"
+    }
+  ]
+}
