@@ -88,6 +88,13 @@
       "email": "blabla@blabla.com",
       "password": "$2a$10$FJYHV592foqlidDxlsYsY.CWiJS4S6yMwI/69OQCxmrOxSvIZWiVi",
       "createdAt": "2026-09-16T03:40:41.258Z"
+    },
+    {
+      "id": "u_1789703636872",
+      "name": "dada",
+      "email": "dada@123.com",
+      "password": "$2a$10$10XLmNjUFSznVSyVg5zD4uIeq.tewp/fEL9qiUU4XHXFsQ1EMgdgm",
+      "createdAt": "2026-09-18T03:53:56.872Z"
     }
   ],
   "mylist": [
